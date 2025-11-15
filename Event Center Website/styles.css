@@ -108,3 +108,23 @@ footer a {
   text-decoration: none;
   cursor: pointer;
 }
+/* About Page */
+.about-title {
+  text-align: center;
+  padding: 20px;
+}
+.about-title h2 {
+  font-size: 2em;
+}
+.about-content {
+  display: flex;
+  gap: 20px;
+  padding: 50px;
+}
+.about-image {
+  width: 100%;
+  height: 250px;
+  border-radius: 10px;
+  border: 2px solid pink;
+  box-shadow: 5px 5px 20px pink;
+}
